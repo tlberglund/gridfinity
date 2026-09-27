@@ -1,0 +1,53 @@
+base-grids/README.md
+  s_dbc03048d34c35::t_d4d557f79afb58 1-98
+base-grids/drawers.csv
+  s_ba5ae0e91cd968::t_e2a3b48bf01c0a 1-2
+base-grids/gridfinity.py
+  s_dbc03048d34c35::t_cdd8b8b7e55b61 1-263
+base-grids/output/toolbox-large/drawer.md
+  s_b60bd92b7c1e02::t_971f8a93a699ef 1-25
+base-grids/test_gridfinity.py
+  s_dbc03048d34c35::t_10a33b6d0fbdc9 1-81
+husky-metric-wrenches/README.md
+  s_b60bd92b7c1e02::t_98e09277563e92 1-77
+husky-metric-wrenches/output/trays.md
+  s_b60bd92b7c1e02::t_f887b56350c120 1-26
+husky-metric-wrenches/test_wrenches.py
+  s_b60bd92b7c1e02::t_c69eadda5e0b98 1-191
+husky-metric-wrenches/wrenches.csv
+  s_b60bd92b7c1e02::t_a6100d00901f44 1-14
+husky-metric-wrenches/wrenches.py
+  s_b60bd92b7c1e02::t_f6ef3acd283b6f 1-622
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "74823f6566d57f745e32b769e47b4fd4ba45675b",
+  "prompts": {},
+  "sessions": {
+    "s_b60bd92b7c1e02": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "a3838d6b-cd30-4e2b-8356-393c2d986292",
+        "model": "claude-fable-5-1"
+      },
+      "human_author": "Tim Berglund <tlberglund@gmail.com>"
+    },
+    "s_ba5ae0e91cd968": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "615c53d4-bbe2-46db-a6d6-ebc1ba480a83",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Tim Berglund <tlberglund@gmail.com>"
+    },
+    "s_dbc03048d34c35": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "b57d7850-76f1-4f62-8c1e-1d700d17862f",
+        "model": "claude-fable-5-1"
+      },
+      "human_author": "Tim Berglund <tlberglund@gmail.com>"
+    }
+  }
+}
